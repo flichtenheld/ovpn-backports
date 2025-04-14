@@ -7,8 +7,6 @@
  *		Antonio Quartulli <antonio@openvpn.net>
  */
 
-
-
 #include <linux/netdevice.h>
 #include <linux/socket.h>
 
